@@ -1,5 +1,8 @@
 # Relay-Module
-Basic 1 Channel Relay Module designed in AutoDesk Eagle. Operates under small signal from any microcontroller. Defined relay coil voltage of 12 volts.
+
+Basic 1 Channel Relay Module designed in AutoDesk Eagle. Operates under small signal from any microcontroller. Based on relay coil voltage of 12 volts.
+<br />
+<br />
 <br />
 <br />
 <br />
